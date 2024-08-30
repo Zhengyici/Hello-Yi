@@ -1,0 +1,46 @@
+{
+    "title": "ZhengYiの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "ZhengYi,个人主页",
+    "author": "ZhengYi",
+    "logo_img": "./img/icon/avatar.jpg",
+    "logo_text_1": "CiQing",
+    "logo_text_2": "top",
+    "github": "Zhengyici",
+    "qq": "3115191913",
+    "email": "3115191913@qq.com",
+    "bilibili": "#",
+    "facebook": "00",
+    "link_1": [
+        " https://v.douyin.com/ihBsoLbt/7@5.com",
+        "fa-solid fa-blog",
+        "只有抖音了"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "#",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_4": [
+        "#",
+        "fa-solid fa-book-bookmark",
+        "编程宝典"
+    ],
+    "link_5": [
+        "@",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "#",
+        "fa-solid fa-flask",
+        "敬请期待..."
+    ],
+    "Copyright_text": "ZhengYi",
+    "beian": "晋ICP备66666666号"
+}
